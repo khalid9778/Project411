@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project411</string>
+
+    <string-array name="companys_list">
+
+        <item>شركة الكهرباء</item>
+        <item>شركة المياه الوطنية</item>
+        <item>وزارة الشؤون البلدية</item>
+
+    </string-array>
+</resources>
